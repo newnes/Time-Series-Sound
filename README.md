@@ -110,9 +110,9 @@ tqdm
 ## License
 **This project is licensed under the MIT License. See the LICENSE file for details.**
 
-MIT License
+**MIT License**
 
-Copyright (c) 2025 Nestor Mendez / FiboQuant_MX
+**Copyright (c) 2025 Nestor Mendez / FiboQuant_MX**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -131,15 +131,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
----
-## Author
-**Nestor Mendez / FiboQuant_MX
 
+## Author
+**Nestor Mendez / FiboQuant_MX**
 GitHub: @newnes
----
+
 ## Contributing
-**Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.**
----
+Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
+
 ## Show your support
-**If you find this project interesting, please give it a star on GitHub.**
+If you find this project interesting, please give it a star on GitHub.
 
