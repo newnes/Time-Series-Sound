@@ -38,7 +38,7 @@ series-sound/
    git clone https://github.com/newnes/series-sound.git
    cd series-sound
 
-2. **Create and activate a virtual environment (recommended)
+2. **Create and activate a virtual environment (recommended)**
    ```bash
    python -m venv venv
    # On Windows:
@@ -46,7 +46,7 @@ series-sound/
    # On macOS/Linux:
    source venv/bin/activate
 
-3. **Install dependencies
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
@@ -54,18 +54,18 @@ series-sound/
 
 ## Usage
 
-1. ** Prepare your data
+1. ** Prepare your data**
 
    Place your .parquet files inside the X_syntetic/ folder. Each file    must be named with a date, for example 2022-05-12.parquet, and    contain a column named value.
 
-2. ** Run the script
+2. ** Run the script**
    ```bash
    python Spectral_Analysis.py
 
-3. ** Select a date
+3. ** Select a date**
    The script will list all available dates. Enter the number    corresponding to the date you want to process, or press q to quit.
 
-4. ** Get the outputs
+4. ** Get the outputs**
    A CSV file with the note mapping: MUSIC/output_<date>.csv
    A WAV audio file: MUSIC/audio_<date>.wav
 
