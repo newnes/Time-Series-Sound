@@ -75,10 +75,16 @@ The objective is to provide an alternative sensory channel for analyzing financi
 
  Enter the number of the date you want to analyze (or 'q' to quit): 1
 
- Processing date: 2022-05-12
- Generating notes: 100%|██████████| 1440/1440 [00:02<00:00, 500.00it/s]
- Generating audio: 100%|██████████| 1440/1440 [00:05<00:00, 250.00it/s]
- Audio generated: MUSIC/audio_2022-05-12.wav
- CSV saved: MUSIC/output_2022-05-12.csv
+Processing date: 2022-05-12
+----------
+Generating notes: 100%|██████████| 1440/1440 [00:02<00:00, 500.00it/s]
+----------
+Generating audio: 100%|██████████| 1440/1440 [00:05<00:00, 250.00it/s]
+----------
+## Output files: 
+****************************************************************
+Audio generated: MUSIC/audio_2022-05-12.wav
+CSV saved: MUSIC/output_2022-05-12.csv
+****************************************************************
 
 
