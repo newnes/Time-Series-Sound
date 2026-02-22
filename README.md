@@ -1,7 +1,7 @@
 > # Disclaimer:
 > For research and experimental purposes only. Not intended for trading decisions.
 
-## Registered Intellectual Work (2016)
+## Registered Intellectual Original idea and Work (2016)
 
 📄 [View the copyright registration of "LA FRECUENCIA ARMÓNICA EN EL ANÁLISIS DE VALORES DE LOS MERCADOS BURSÁTILES" (PDF)](https://github.com/newnes/Time-Series-Sound/raw/main/Cert_Author.pdf)
 
