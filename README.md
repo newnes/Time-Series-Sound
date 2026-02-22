@@ -1,9 +1,11 @@
 > # Disclaimer:
 > For research and experimental purposes only. Not intended for trading decisions.
 
-## Registered Idea Work (2016)
+## Registered Intellectual Work (2016)
 
-[View the copyright registration of "LA FRECUENCIA ARMÓNICA EN EL ANÁLISIS DE VALORES DE LOS MERCADOS BURSÁTILES" (PDF)](https://github.com/newnes/Time-Series-Sound/raw/main/Cert_Author.pdf)
+📄 [View the copyright registration of "LA FRECUENCIA ARMÓNICA EN EL ANÁLISIS DE VALORES DE LOS MERCADOS BURSÁTILES" (PDF)](https://github.com/newnes/Time-Series-Sound/raw/main/Cert_Author.pdf)
+
+*This document, registered in 2016, establishes the conceptual foundation for the harmonic analysis later applied in projects like [Time-Series-Sound](https://github.com/newnes/Time-Series-Sound).*
 
 # Series Sound
 
