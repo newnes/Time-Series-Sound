@@ -1,6 +1,11 @@
 > # Disclaimer:
 > For research and experimental purposes only. Not intended for trading decisions.
 
+## Registered Idea Work (2016)
+
+[![Certificado 2016]](https://github.com/newnes/tu-repo/raw/main/Cert_Author.pdf) ]
+*Click to view the copyright registration of "LA FRECUENCIA ARMÓNICA EN EL ANÁLISIS DE VALORES DE LOS MERCADOS BURSÁTILES"*
+
 # Series Sound
 
 **Sonification of financial time series through spectral analysis and musical note mapping.**
