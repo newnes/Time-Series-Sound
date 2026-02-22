@@ -92,13 +92,13 @@ Generating audio: 100%|██████████| 1440/1440 [00:05<00:00, 2
 ****************************************************************
 
 ## Dependencies
-All required packages are listed in requirements.txt:
-
+**All required packages are listed in requirements.txt:**
+```bash
 numpy
 pandas
 librosa
 soundfile
 scipy
 tqdm
-
+```
 
