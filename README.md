@@ -32,7 +32,7 @@ The objective is to provide an alternative sensory channel for analyzing financi
 
 ---
 
-## Listen to the result
+## Listen to the result:
 
 You can hear the sonification of financial time series in action.  
 This audio example was generated with this project:
@@ -43,7 +43,7 @@ Click the image or [watch on YouTube](https://www.youtube.com/watch?v=k4zKi3tx3f
 
 ---
 
-## Curious Note
+## Curious Note:
 
 As an interesting parallel, modern Large Language Models (LLMs) can also process and generate information through audio representations.  
 
