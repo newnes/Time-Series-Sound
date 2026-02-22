@@ -7,6 +7,8 @@
 
 *This document, registered in 2016, establishes the conceptual foundation for the harmonic analysis later applied in projects like [Time-Series-Sound](https://github.com/newnes/Time-Series-Sound).*
 
+The harmonic approach used in this project originates from a registered literary work in 2016, 'LA FRECUENCIA ARMÓNICA EN EL ANÁLISIS DE VALORES DE LOS MERCADOS BURSÁTILES', which laid the theoretical foundation for sonifying financial time series.
+
 # Series Sound
 
 **Sonification of financial time series through spectral analysis and musical note mapping.**
