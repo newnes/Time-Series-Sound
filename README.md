@@ -32,6 +32,16 @@ The objective is to provide an alternative sensory channel for analyzing financi
 
 ---
 
+## Listen to the result
+
+You can hear the sonification of financial time series in action.  
+This audio example was generated with this project:
+
+[![NOVA - The Symphony of the Bullish and Bearish](https://img.youtube.com/vi/k4zKi3tx3fU/0.jpg)](https://www.youtube.com/watch?v=k4zKi3tx3fU)
+
+Click the image or [watch on YouTube](https://www.youtube.com/watch?v=k4zKi3tx3fU)
+
+---
 ## Installation
 
 ### WINDOWS:
