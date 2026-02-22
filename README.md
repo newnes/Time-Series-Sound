@@ -133,6 +133,7 @@ SOFTWARE.
 
 ## Author
 **Nestor Mendez / FiboQuant_MX**
+---
 GitHub: @newnes
 
 ## Contributing
