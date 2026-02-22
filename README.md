@@ -42,6 +42,20 @@ This audio example was generated with this project:
 Click the image or [watch on YouTube](https://www.youtube.com/watch?v=k4zKi3tx3fU)
 
 ---
+
+## Curious Note
+
+As an interesting parallel, modern Large Language Models (LLMs) can also process and generate information through audio representations.  
+
+When LLM-based systems interact with speech models, communication may involve acoustic signal processing, waveform encoding, spectral decomposition, and frequency-domain transformations — conceptually similar to how this project converts financial time series into sound.
+
+While LLMs do not "think in audio" by default, multimodal AI systems frequently rely on spectral analysis and waveform modeling when handling speech-to-text and text-to-speech tasks.
+
+This project explores a similar idea from a quantitative finance perspective:  
+transforming abstract numerical structures into audible signals to reveal hidden patterns through an alternative sensory channel.
+
+---
+
 ## Installation
 
 ### WINDOWS:
